@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Exams on MIT OpenCourseWare</title>
+    <link>/resources/exams/</link>
+    <description>Recent content in Exams on MIT OpenCourseWare</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="/resources/exams/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Exams</title>
+      <link>/pages/exams/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/pages/exams/data.json</guid>
+      <description>&lt;p&gt;Here are some sample questions from the final exam.&lt;/p&gt;&#xA;&#xA;    &lt;h3 id=&#34;neuroanatomy-exam&#34;&gt;Neuroanatomy Exam&lt;/h3&gt;&#xA;&#xA;&lt;p&gt;1) Which of the following statements regarding nervous system development is NOT true:&lt;/p&gt;&#xA;&lt;p&gt;a. The neural tube is of ectodermal origin&lt;br&gt;&#xA;b. The neural folds fuse in an anterior to posterior time gradient&lt;br&gt;&#xA;c. The apices (tips) of the neural folds give rise to the neural crest&lt;br&gt;&#xA;d. The cephalic end of the neural tube forms three primary vesicles&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
